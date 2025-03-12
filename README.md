@@ -13,7 +13,7 @@ A fully responsive **Zerodha landing page** built using **HTML** and **pure CSS*
 [Zerodha Landing Page Clone](https://zerodhapage.vercel.app/)  
 
 ## 📂 Project Structure  
-/zerodha-landing-page
+zerodha-landing-page/
 │── index.html
 │── style.css
 │── assets/ (images, icons, etc.)
