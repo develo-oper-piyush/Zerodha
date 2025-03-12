@@ -10,12 +10,12 @@ A fully responsive **Zerodha landing page** built using **HTML** and **pure CSS*
 - Optimized for fast loading  
 
 ## 🖼️ Preview  
-[Zerodha Landing Page Clone](https://zerodhapage.vercel.app/)  
+[Zerodha Landing Page Clone](https://zerodhalandingpage.vercel.app/)  
 
 ## 📂 Project Structure  
 
-- **zerodha-landing-page/**  
-  - 📂 **assets/** → Folder containing images, icons, and other assets  
+- **zerodha-landing-page**  
+  - 📂 **assets** → Folder containing images, icons, and other assets  
   - 📄 **index.html** → Main HTML file  
   - 🎨 **style.css** → CSS Stylesheet  
 
@@ -27,7 +27,7 @@ A fully responsive **Zerodha landing page** built using **HTML** and **pure CSS*
 
 2. Open index.html in your browser
 📌 Live Demo
-Live Demo
+[Live Demo](https://zerodhalandingpage.vercel.app/)
 
 🌟 Contributing
 Feel free to submit pull requests or report issues!
