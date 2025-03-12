@@ -26,6 +26,7 @@ A fully responsive **Zerodha landing page** built using **HTML** and **pure CSS*
    git clone https://github.com/your-username/zerodha-landing-page.git
 
 2. Open index.html in your browser
+
 📌 Live Demo
 [Live Demo](https://zerodhalandingpage.vercel.app/)
 
